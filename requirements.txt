@@ -1,0 +1,6 @@
+gymnasium~=0.27
+jupyter
+tqdm
+gymnasium[classic-control]~=0.27
+numpy
+matplotlib
